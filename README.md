@@ -23,21 +23,6 @@ Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas (4º semestre),
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white )
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black )
 
-### Conceitos & Metodologias
-APIs RESTful, JWT, POO, DTOs, Microserviços, Estruturas de Dados, Metodologias Ágeis, Arquitetura em Camadas, Clean Code.
-
-## Projetos Destacados
-- [**SavePoint API**](https://github.com/RyanGTorres/SavePoint ) - **Projeto Pessoal (Em desenvolvimento)**
-  API RESTful desenvolvida em Java e Spring Boot para avaliações de jogos, com implementação de CRUD e autenticação via JWT. Complementada por um front-end em Angular para consumo da API.
-  - Repositório da API: [RyanGTorres/SavePoint](https://github.com/RyanGTorres/SavePoint )
-  - Repositório do Front-end: [RyanGTorres/angular-savepoint](https://github.com/RyanGTorres/angular-savepoint )
-
-- [**Aplicativo Mobile com Back-End em .NET**](https://github.com/RyanGTorres/MobileAppBackend ) - **Projeto Acadêmico (2025)**
-  Desenvolvimento de um aplicativo mobile com React.js e back-end em C#/ASP.NET, incluindo implementação de autenticação e integração front-end/API RESTful.
-
-- [**Blog de Medicina com ASP.NET**](https://github.com/RyanGTorres/MedicalBlog ) - **Projeto Acadêmico (2024)**
-  Blog completo utilizando C#/ASP.NET com funcionalidades CRUD para gerenciamento de notícias, persistência de dados via Entity Framework e sistema de autenticação.
-
 ## Atualmente Aprendendo
 - Conceitos avançados de Spring Boot
 - Arquitetura de Microserviços
