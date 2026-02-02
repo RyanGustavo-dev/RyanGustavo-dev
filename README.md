@@ -6,7 +6,7 @@
 ## Sobre Mim
 Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas (5º semestre), com conclusão prevista para o 1º semestre de 2026. Busco uma oportunidade de estágio como desenvolvedor Back-End **Java/Spring** para aplicar conhecimentos em APIs RESTful e banco de dados, contribuindo com soluções inovadoras e desenvolvendo habilidades técnicas em um ambiente profissional. Sou apaixonado por arquitetura limpa, APIs RESTful e construção de soluções eficientes para bancos de dados.
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanGTorres&show_icons=true&theme=dracula&hide_title=true&hide_rank=true )
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanGustavo-dev&show_icons=true&theme=dracula&hide_title=true&hide_rank=true )
 
 ## Habilidades Técnicas
 
@@ -23,9 +23,3 @@ Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas (5º semestre),
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white )
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black )
 
-## Atualmente Aprendendo
-- Conceitos avançados de Spring Boot
-- Arquitetura de Microserviços
-- Pipelines de CI/CD
-- Angular Básico + Spring Boot Intermediário (Java10x)
----
