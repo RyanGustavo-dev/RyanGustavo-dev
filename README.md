@@ -18,7 +18,7 @@ em 2026), com base sólida em banco de dados relacionais e arquitetura de APIs.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## Habilidades Técnicas
 
 ### Linguagens & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,6 +45,6 @@ em 2026), com base sólida em banco de dados relacionais e arquitetura de APIs.
 
 ---
 
-## 📌 Em andamento
+## Em andamento
 
 - 🎓 ADS — PUC Minas (conclusão 2026)
